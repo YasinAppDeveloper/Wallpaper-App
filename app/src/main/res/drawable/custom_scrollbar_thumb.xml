@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/black_blue" /> <!-- Color of the scrollbar thumb -->
+    <corners android:radius="4dp" /> <!-- Radius of the corners (optional) -->
+    <size android:width="2dp" android:height="32dp" /> <!-- Size of the scrollbar thumb -->
+</shape>

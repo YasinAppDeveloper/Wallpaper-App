@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552941798017",
+    "project_id": "wallymax-4k",
+    "storage_bucket": "wallymax-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552941798017:android:27b7fdee089b06742a8380",
+        "android_client_info": {
+          "package_name": "com.example.wallymax4k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVLI49IFl910S616fP9VwciV8VQxlXC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<!-- res/drawable/progress_bar.xml -->
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="360"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:drawable="@drawable/progress_bar_circle"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:duration="1000"
+    android:repeatCount="infinite" />
